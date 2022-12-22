@@ -12,7 +12,6 @@ Provided in the 'results' folder are result images of the proposed method and co
  - Matlab 2012b
 
 ## Usage
- - Download and release Segmentation.zip.
- - Set the path of the 'procedure ' folder as the working directory of Matlab.
- - Modify the filenames in the program based on where the images is actually stored.
- - run main_M1.m for training or testing.
+ - Set the path of 'procedure' folder as the working directory of Matlab.
+ - Modify the filenames in the program based on where the original images are actually stored.
+ - Run the programs for testing.
