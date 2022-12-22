@@ -1,6 +1,6 @@
 # Compressive-BRDF-based-Feature-Extraction-Method-for-Camouflaged-Object-Segmentation
 
-This repository contains the codes for paper Compressive Bidirectional Reflection Distribution Function-Based Feature Extraction Method for Camouflaged Object Segmentation by Xueqi Chen, Yunkai Xu, Ajun Shao, Xiaofang Kong, Qian Chen,2, Guohua Gu* and Minjie Wan*. (*Corresponding author). More details are available at https://www.mdpi.com/2304-6732/9/12/915.
+This repository contains the codes for paper Compressive Bidirectional Reflection Distribution Function-Based Feature Extraction Method for Camouflaged Object Segmentation by Xueqi Chen, Yunkai Xu, Ajun Shao, Xiaofang Kong, Qian Chen, Guohua Gu* and Minjie Wan*. (*Corresponding authors). More details are available at https://www.mdpi.com/2304-6732/9/12/915.
 
 Provided in the 'images' folder are multi-angles photos taken by black-and-white camera. The ground truth images are also in this folder.
 
