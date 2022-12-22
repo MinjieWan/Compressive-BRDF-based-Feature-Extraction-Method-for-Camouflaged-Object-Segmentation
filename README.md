@@ -8,7 +8,7 @@ Provided in the 'procedure' folder is the camouflaged object segmentation algori
 
 Provided in the 'results' folder are result images of the proposed method and comparison methods. We provide a program to calculate the performance (probability and false alarm rate) of the result images in the 'procedure' folder.
 
-## Requirements
+## Requirement
  - Matlab 2012b
 
 ## Usage
